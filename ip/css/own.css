@@ -1,0 +1,48 @@
+body {
+        background-image: url(https://i.pinimg.com/originals/0b/d1/c4/0bd1c4f4a36c39bb3cdef8d188d79352.jpg);
+        background-repeat:repeat-x;
+        background-size:inital;
+        margin:0px;
+    }
+    c {font-family: 'Kaushan Script', cursive;
+       font-size:4em;
+       color:red;
+    }
+    d {font-family: 'Roboto', sans-serif;
+       font-size:2em;
+    }
+    span {font-family: 'Satisfy', cursive;
+          font-size:4em;
+          color:green;
+    }
+    #ip {
+        width: 286px;
+        height: 25px;
+        box-sizing: border-box;
+        vertical-align: top;
+        -webkit-border-radius: 10px;
+        border-radius: 10px;
+    }
+    #ip:focus{
+        outline:none;
+        border:2px black solid;
+    }
+    .btn-primary {
+        outline:none;
+        width: 150px;
+        height: 25px;
+        padding:0px;
+        border: 1px solid RoyalBlue;
+        margin-top:5px;
+        background-color:RoyalBlue;
+        color:white;
+        vertical-align: top;
+        -webkit-border-radius: 20px;
+        border-radius: 20px;
+        cursor: pointer;
+    }
+    .btn-primary:hover{
+        outline:none;
+        border: 1px solid red;
+        background-color: red;
+    }
